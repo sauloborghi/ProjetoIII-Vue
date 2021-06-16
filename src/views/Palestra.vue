@@ -1,19 +1,19 @@
 <template>
   <div id="app">
-    <Card/>
+    <Cardh/>
     <Rodape/>
   </div>
 </template>
 
 <script>
 import Rodape from '../components/Rodape.vue'
-import Card from '../components/Card.vue'
+import Cardh from '../components/Cardh.vue'
 
 export default {
   name: 'About',
   components: {
     Rodape,
-    Card
+    Cardh
   }
 }
 </script>
