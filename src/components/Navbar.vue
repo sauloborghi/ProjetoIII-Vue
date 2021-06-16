@@ -8,7 +8,7 @@
     <b-collapse id="nav-collapse" is-nav>
       <b-navbar-nav>
         <b-nav-item to="/">Home</b-nav-item>
-        <b-nav-item to="/palestra">Hospitais</b-nav-item>
+        <b-nav-item to="/hospital">Hospitais</b-nav-item>
         <b-nav-item to="/about">Sobre</b-nav-item>
         <b-nav-item to="/contato">Contato</b-nav-item>
       </b-navbar-nav>
