@@ -5,7 +5,7 @@
     <h1 class="center">MAIS PRÓXIMOS</h1>
     <hr class="hr">
   <b-card-group deck>
-    <b-card title="Santa Casa de Taquaritinga" img-src="http://www.santacasatq.com.br/santacasa/img/slide2.jpg" img-alt="Image" img-top>
+    <b-card title="Santa Casa de Taquaritinga" img-src="https://lh3.googleusercontent.com/proxy/mYGGl_G6ra9gZgdp3xJNoE7etyOhVJS-fu3qCbBap3TkakIryNYfnnUksQ7NtOhWHlaepTA6AvmlhgalMbk-rftw_HvHz76Rbzu9ssroZpKpWeFMVxKDfoaCQvXYw-8" img-alt="Image" img-top>
       <b-card-text>
         Endereço: Rua X, 29 - Taquaritinga/Sp
         <br>

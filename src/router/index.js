@@ -3,7 +3,7 @@ import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
 import About from '../views/About.vue'
 import Contato from '../views/Contato.vue'
-import Palestra from '../views/Palestra.vue'
+import Hospital from '../views/Hospital.vue'
 import NotFound from '../views/NotFound.vue'
 
 Vue.use(VueRouter)
@@ -25,9 +25,9 @@ const routes = [
     component: Contato
   },
   {
-    path: '/palestra',
-    name: 'Palestra',
-    component: Palestra
+    path: '/hospital',
+    name: 'Hospital',
+    component: Hospital
   },
   {
     path: "/:catchAll(.*)",
