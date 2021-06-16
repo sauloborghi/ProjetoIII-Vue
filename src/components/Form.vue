@@ -6,16 +6,16 @@
   <h1 class="center">FALE CONOSCO!</h1>
   <hr>
   <label for="exampleFormControlInput1" class="form-label">Nome</label>
-  <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="José Silva">
+  <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="José Silva" required>
   <br>
   <label for="exampleFormControlInput1" class="form-label">Email</label>
-  <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="jose_silva@gmail.com">
+  <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="jose_silva@gmail.com" required>
   <br>
   <label for="exampleFormControlInput1" class="form-label">Assunto</label>
-  <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Problema no cadastro">
+  <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Problema no cadastro" required>
   <br>
   <label for="exampleFormControlInput1" class="form-label">Telefone</label>
-  <input type="number" class="form-control" id="exampleFormControlInput1" placeholder="(99)9999-9999">
+  <input type="number" class="form-control" id="exampleFormControlInput1" placeholder="(99)9999-9999" required>
   <center>
   <button type="submit" class="btn btn-success mb-3">Enviar</button>
   </center>
